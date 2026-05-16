@@ -1,5 +1,4 @@
-%%% Honey Badger Algorithm %%% 
-
+%%% Chaotic Honey Badger Algorithm %%% 
 function [Xprey, Food_Score,CNVG] = CHBA(dim,lb,ub,tmax,N)
 beta     = 6;     
 C        = 2;     
