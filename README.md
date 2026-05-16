@@ -2,6 +2,8 @@ Enhancing the Voltage Profile and Net Profit of Reconfigured Distribution Networ
 
 Manuscript Information
 
+Manuscript id: 10257
+
 Title: Enhancing the Voltage Profile and Net Profit of Reconfigured Distribution Networks with the Optimal Integration of EVCS and Capacitor Banks with Chaotic HBA
 
 Authors:
