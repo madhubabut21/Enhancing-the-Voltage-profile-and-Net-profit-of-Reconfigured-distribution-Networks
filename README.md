@@ -1,5 +1,5 @@
 Enhancing the Voltage Profile and Net Profit of Reconfigured Distribution Networks with the Optimal Integration of EVCS and Capacitor Banks with Chaotic HBA
-Enhancing the Voltage profile and Net profit of Reconfigured distribution Networks with the Optimal integration of EVCS and Capacitor Banks with Chaotic HBA
+
 Manuscript Information
 
 Title: Enhancing the Voltage Profile and Net Profit of Reconfigured Distribution Networks with the Optimal Integration of EVCS and Capacitor Banks with Chaotic HBA
